@@ -1,0 +1,77 @@
+{
+  "ten_de_thi": "Bộ câu hỏi trắc nghiệm tổng hợp",
+  "danh_sach_cau_hoi": [
+    {
+      "loai": 1,
+      "noi_dung": "Thủ đô của Việt Nam là thành phố nào?",
+      "muc_do": "Nhận biết",
+      "phuong_an": ["TP. Hồ Chí Minh", "Đà Nẵng", "Hà Nội", "Hải Phòng"],
+      "dap_an_dung": "Hà Nội"
+    },
+    {
+      "loai": 1,
+      "noi_dung": "Kết quả của phép tính $\\sqrt{25} - \\sqrt{9}$ là:",
+      "muc_do": "Thông hiểu",
+      "phuong_an": ["2", "4", "8", "16"],
+      "dap_an_dung": "2"
+    },
+    {
+      "loai": 1,
+      "noi_dung": "Giải phương trình $2^x = 8$. Giá trị của $x$ là:",
+      "muc_do": "Vận dụng",
+      "phuong_an": ["2", "3", "4", "5"],
+      "dap_an_dung": "3"
+    },
+    {
+      "loai": 1,
+      "noi_dung": "Tìm giá trị lớn nhất của hàm số $y = -x^2 + 4x - 5$ trên đoạn $[0; 3]$.",
+      "muc_do": "Vận dụng cao",
+      "phuong_an": ["-1", "-2", "-5", "0"],
+      "dap_an_dung": "-1"
+    },
+    {
+      "loai": 2,
+      "noi_dung": "Xét các tính chất của hình vuông:",
+      "muc_do": "Nhận biết",
+      "phuong_an": [
+        {"menh_de": "Hình vuông có 4 cạnh bằng nhau", "tra_loi": true},
+        {"menh_de": "Hình vuông có 4 góc vuông", "tra_loi": true},
+        {"menh_de": "Hai đường chéo hình vuông không bằng nhau", "tra_loi": false},
+        {"menh_de": "Hình vuông là một hình thoi đặc biệt", "tra_loi": true}
+      ]
+    },
+    {
+      "loai": 2,
+      "noi_dung": "Xét hàm số $y = x^2 - 2x + 1$:",
+      "muc_do": "Thông hiểu",
+      "phuong_an": [
+        {"menh_de": "Đồ thị hàm số là một đường thẳng", "tra_loi": false},
+        {"menh_de": "Hàm số có đỉnh tại $I(1; 0)$", "tra_loi": true},
+        {"menh_de": "Hàm số đồng biến trên khoảng $(1; +\\infty)$", "tra_loi": true},
+        {"menh_de": "Đồ thị cắt trục tung tại điểm $(0; 1)$", "tra_loi": true}
+      ]
+    },
+    {
+      "loai": 2,
+      "noi_dung": "Cho phương trình $x^2 - 5x + 6 = 0$:",
+      "muc_do": "Vận dụng",
+      "phuong_an": [
+        {"menh_de": "Phương trình có hai nghiệm phân biệt", "tra_loi": true},
+        {"menh_de": "Tổng hai nghiệm là $x_1 + x_2 = -5$", "tra_loi": false},
+        {"menh_de": "Tích hai nghiệm là $x_1x_2 = 6$", "tra_loi": true},
+        {"menh_de": "Nghiệm của phương trình là 2 và 3", "tra_loi": true}
+      ]
+    },
+    {
+      "loai": 2,
+      "noi_dung": "Xét bất phương trình $m x^2 - 2x + 1 > 0$:",
+      "muc_do": "Vận dụng cao",
+      "phuong_an": [
+        {"menh_de": "Với $m = 0$, bất phương trình có nghiệm $x < 1/2$", "tra_loi": true},
+        {"menh_de": "Với mọi $m > 1$, bất phương trình luôn đúng với mọi $x$", "tra_loi": true},
+        {"menh_de": "Nếu $m < 0$, tập nghiệm của bất phương trình là một khoảng", "tra_loi": true},
+        {"menh_de": "Với $m = 1$, bất phương trình đúng với mọi $x \\in \\mathbb{R}$", "tra_loi": false}
+      ]
+    }
+  ]
+}
